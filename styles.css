@@ -1,0 +1,29 @@
+* {
+    /* box-sizing: border-box; */
+}
+
+.nav ul {
+    list-style: none;
+    font-family: "ARS Maquette", "Helvetica Neue", Arial, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size:13px;
+    line-height: 32px;
+    
+}
+
+.top-nav-1 {
+    color: #fff;
+    background-color: #131313;
+}
+
+.top-nav-2 {
+    color: #fff;
+    background-color: #131313;
+    font-family: Shentox, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 14px;
+    color:#fff;
+}
