@@ -1,39 +1,22 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# A clone of the The Next Web website.
 
-> One paragraph statement about the project.
-
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
+> This is an exact replica of the The Next Web website putting emphasis on how it behaves differently depending on the size of the screen where the website is rendered.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML5
+- CSS3
 
 ## Live Demo
 
 [Live Demo Link](https://livedemo.com)
 
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+## To get a local copy up and running follow these simple example steps.
 
 
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
+### Linters.
 
 ### Run tests
 
@@ -43,11 +26,11 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 UdBerg
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@udberg](https://github.com/udberg)
+- Twitter: [@juduak_](https://twitter.com/juduak_)
+- LinkedIn: [Uduak John](https://linkedin.com/linkedinhandle)
 
 👤 **Author2**
 
