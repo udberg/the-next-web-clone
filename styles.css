@@ -27,3 +27,16 @@
     line-height: 14px;
     color:#fff;
 }
+
+.latest-grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-column-gap: 15px;
+    grid-row-gap: 15px;
+}
+
+.grid-item {
+    border: 1px solid #000;
+    padding: 25px;
+    
+}
