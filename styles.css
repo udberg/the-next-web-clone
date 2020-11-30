@@ -40,3 +40,34 @@
     padding: 25px;
     
 }
+
+.funding {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-column-gap: 15px;
+    grid-row-gap: 15px;
+    margin-bottom: 30px;
+}
+
+.funding-item {
+    border: 1px solid #000;
+    padding: 25px;
+}
+
+.extra-grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-column-gap: 15px;
+    grid-row-gap: 15px;
+    
+}
+
+.grid-item-extra {
+    border: 1px solid #000;
+    padding: 25px;
+}
+
+
+
+
+
