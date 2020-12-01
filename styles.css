@@ -83,6 +83,23 @@ header a {
     background-color: #ffffff;
 }
 
+.top-news {
+    display: flex;
+    position: relative;
+    width:auto;
+}
+
+.top-news.left-side {
+    float: left;
+    width: 60%;
+}
+
+.top-news.right-side {
+    float: right;
+    width: 40%;
+}
+
+
 /* .nav-menu-right .tnw {
     display: inline-block;
     font-size: 18px;
@@ -159,3 +176,10 @@ header a {
     border: 1px solid #000;
     padding: 25px;
 }
+
+
+
+
+
+
+
