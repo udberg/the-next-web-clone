@@ -177,7 +177,17 @@ header a {
     padding: 25px;
 }
 
+.latest-deals-container {
+    display: grid;
+    grid-template-columns: max-content max-content max-content max-content;
+    grid-column-gap: 15px;
+    grid-row-gap: 15px;
+}
 
+.deals-item {
+    border: 1px solid #000;
+    /* padding: 25px; */
+}
 
 
 
