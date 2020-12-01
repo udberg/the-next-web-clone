@@ -142,14 +142,14 @@ header a {
 
 .latest-grid-container {
     display: grid;
-    grid-template-columns: auto auto auto auto;
+    grid-template-columns: max-content max-content max-content max-content;
     grid-column-gap: 15px;
     grid-row-gap: 15px;
 }
 
 .grid-item {
     border: 1px solid #000;
-    padding: 25px;
+    /* padding: 25px; */
 }
 
 .funding {
