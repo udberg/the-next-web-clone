@@ -11,7 +11,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://github.com/udberg/the-next-web-clone/tree/home-page)
+[Live Demo Link]()
 
 ## To get a local copy up and running follow these simple example steps.
 
