@@ -1,3 +1,5 @@
 node_modules/
 .hintrc
 .stylelintrc.json
+desktop.ini
+.DS_Store
