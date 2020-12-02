@@ -240,6 +240,16 @@ header a {
   font-weight: 400;
 }
 
+.wrapper ul li a {
+  font-family: "ARS Maquette", "Helvetica Neue", Arial, sans-serif;
+  font-size: 13px;
+  text-decoration: none;
+  line-height: 20px;
+  font-weight: 400;
+  font-style: normal;
+  color: #646464;
+}
+
 .top .column2 a {
   display: block;
   padding-top: 0;
@@ -710,7 +720,7 @@ footer {
   }
   */
 
-  .most ul li a {
+  /* .most ul li a {
     font-family: "ARS Maquette", "Helvetica Neue", Arial, sans-serif;
     font-size: 13px;
     text-decoration: none;
@@ -718,7 +728,7 @@ footer {
     font-weight: 400;
     font-style: normal;
     color: #646464;
-  }
+  } */
 
   .top .column2 a {
     padding-top: 8px;
