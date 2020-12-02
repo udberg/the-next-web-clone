@@ -2,7 +2,12 @@
 
 # A clone of the The Next Web website.
 
-> This is an exact replica of the The Next Web website putting emphasis on how it behaves differently depending on the size of the screen where the website is rendered.
+
+This is an exact replica of the The Next Web website putting emphasis on how it behaves differently depending on the size of the screen where the website is rendered.
+
+
+
+Additional description about the project and its features.
 
 ## Built With
 
