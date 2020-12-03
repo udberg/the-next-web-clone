@@ -161,12 +161,13 @@ a {
   right: 0;
   left: 0;
   bottom: 0;
-  background-image: linear-gradient(
-    to right bottom,
-    rgba(255, 67, 10, 0.85) 20%,
-    rgba(255, 67, 10, 0.5) 60%,
-    transparent
-  );
+  background-image:
+    linear-gradient(
+      to right bottom,
+      rgba(255, 67, 10, 0.85) 20%,
+      rgba(255, 67, 10, 0.5) 60%,
+      transparent
+    );
 }
 
 .hero time {
@@ -176,16 +177,13 @@ a {
   text-align: end;
   z-index: 30;
 }
+
 .logo-large {
   height: 96px;
   flex: 1;
   background-image: url("assets/images/tnw.svg");
   background-repeat: no-repeat;
   z-index: 30;
-}
-
-.main-article .recent-article-header {
-  position: absolute;
 }
 
 .recent-article-header {
@@ -197,6 +195,10 @@ a {
   background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.9));
   color: #fff;
   z-index: 10;
+}
+
+.main-article .recent-article-header {
+  position: absolute;
 }
 
 .recent-article-header h4 {
@@ -211,6 +213,30 @@ a {
   margin-top: -10px;
 }
 
+.top-news-article h2 {
+  font-family: Avalon, sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 56px;
+  color: #fff;
+}
+
+.news h2 {
+  color: red;
+  font-size: 1.5rem;
+}
+
+.most h2 {
+  font-family: Avalon, sans-serif;
+  font-weight: 700;
+  color: red;
+  margin: 10px 0 14px 0;
+  font-style: normal;
+  font-size: 28px;
+  line-height: 31px;
+}
+
 .main-article .recent-article-header h2 {
   font-size: 2.2rem;
   padding-top: 0;
@@ -223,12 +249,6 @@ a {
   color: #999;
 }
 
-.article-author .icona {
-  margin-left: 0.5rem;
-  height: 1.8rem;
-  height: 1.8rem;
-}
-
 .icona {
   display: block;
   width: 2.4rem;
@@ -236,6 +256,11 @@ a {
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
+}
+
+.article-author .icona {
+  margin-left: 0.5rem;
+  height: 1.8rem;
 }
 
 .i-clock {
@@ -368,15 +393,6 @@ a {
   padding: 225px 0 8px 2px;
 }
 
-.top-news-article h2 {
-  font-family: Avalon, sans-serif;
-  font-style: normal;
-  font-weight: 700;
-  font-size: 56px;
-  line-height: 56px;
-  color: #fff;
-}
-
 .top .column2 {
   float: right;
   padding-left: 8px;
@@ -454,11 +470,6 @@ a {
   padding: 0;
 }
 
-.news h2 {
-  color: red;
-  font-size: 1.5rem;
-}
-
 .news h3 {
   font-size: 17px;
   font-weight: bold;
@@ -512,16 +523,6 @@ a {
   width: 100%;
   padding: 0 10px;
   margin-bottom: 10px;
-}
-
-.most h2 {
-  font-family: Avalon, sans-serif;
-  font-weight: 700;
-  color: red;
-  margin: 10px 0 14px 0;
-  font-style: normal;
-  font-size: 28px;
-  line-height: 31px;
 }
 
 .funding .title h2 {
@@ -1064,6 +1065,7 @@ footer {
     width: 100%;
     margin-bottom: 10px;
   }
+
   .recent-articles-container {
     grid-template-columns: 1fr;
     grid-template-rows: 240px;
@@ -1075,31 +1077,40 @@ footer {
   .deals .deal {
     width: calc(99% / 3);
   }
+
   .deal .product {
     font-size: 15px;
   }
+
   .deal p {
     font-size: 15px;
   }
+
   .recent-articles-container {
     grid-template-rows: 225px 225px;
   }
-  .main-article .recent-article-header h2 {
-    font-size: 2rem;
-  }
-  .hide-medium-large {
-    display: none;
-  }
-  .hide-medium {
-    display: none !important;
-  }
+
   .recent-article-header h2 {
     font-size: 1rem;
   }
+
+  .main-article .recent-article-header h2 {
+    font-size: 2rem;
+  }
+
+  .hide-medium-large {
+    display: none;
+  }
+
+  .hide-medium {
+    display: none !important;
+  }
+
   .recent-article-header h4 {
     font-size: 0.8rem;
     font-weight: 400;
   }
+
   .article-author {
     font-size: 0.8rem;
   }
@@ -1116,13 +1127,16 @@ footer {
     height: 72px;
     padding-right: 10px;
   }
+
   .main-article {
     grid-row: 1;
   }
-  .main-article .recent-article-header h2,
-  .recent-article-header h2 {
+
+  .recent-article-header h2,
+  .main-article .recent-article-header h2 {
     font-size: 1.5rem;
   }
+
   .hide-medium-small {
     display: none !important;
   }
