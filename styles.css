@@ -684,9 +684,11 @@ footer {
   header {
     display: flex;
   }
+
   .header-img {
     display: none;
   }
+
   .first-nav {
     display: flex;
     justify-content: space-between;
@@ -695,30 +697,37 @@ footer {
     height: 30px;
     padding: 10px 3px;
   }
+
   .nav-1 {
     width: 400px;
   }
+
   .nav-2 {
     width: 220px;
   }
+
   .Second-nav {
     padding: 5px 5px;
     background-color: white;
     width: 100%;
   }
+
   .second-links {
     display: flex;
     width: 500px;
     margin: auto 0;
     justify-content: space-between;
   }
+
   .nav-icons .fa-search {
     padding-left: 40px;
   }
+
   .Second-nav .nav-icons .fa-bars {
     display: none;
   }
 }
+
 .top-menu .res-nav {
   display: none;
 }
@@ -731,9 +740,11 @@ footer {
     display: block;
     margin: -8px;
   }
+
   .nav-img {
     display: none;
   }
+
   .top-menu .nav-left {
     display: none;
   }
