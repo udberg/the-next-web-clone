@@ -1,56 +1,58 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# A clone of the The Next Web website.
 
-> One paragraph statement about the project.
+
+This is an exact replica of the The Next Web website putting emphasis on how it behaves differently depending on the size of the screen where the website is rendered.
+
 
 
 Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML5
+- CSS3
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://udberg.github.io/the-next-web-clone/)
 
+## To get a local copy up and running follow these simple example steps.
 
-## Getting Started
+git clone https://github.com/udberg/the-next-web-clone
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+cd the-next-web-clone
 
+git checkout -b home-page
 
-To get a local copy up and running follow these simple example steps.
+### Linters.
 
-### Prerequisites
+Install some dependencies by running the following command
 
-### Setup
+npm install --save-dev stylelint@13.3.x stylelint-scss@3.17.x stylelint-config-standard@20.0.x stylelint-csstree-validator
 
-### Install
+Run the following command to check linters
 
-### Usage
+npx stylelint "*/.{css,scss}"
 
-### Run tests
 
 ### Deployment
 
+Install and run a live server plugin on your Text editor.
 
 
 ## Authors
 
-👤 **Author1**
+👤 UdBerg
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@udberg](https://github.com/udberg)
+- Twitter: [@juduak_](https://twitter.com/juduak_)
+- LinkedIn: [Uduak John](https://www.linkedin.com/in/uduak-john-090059105/)
 
-👤 **Author2**
+👤 Sam
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+- GitHub: [@SamArsanios](https://github.com/SamArsanios)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
 
@@ -58,7 +60,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/udberg/the-next-web-clone/issues).
 
 ## Show your support
 
@@ -66,10 +68,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Hat tip to [Microverse](https://www.microverse.org/) for their readme template
 
 ## 📝 License
 
-This project is [MIT](lic.url) licensed.
+This project is [MIT](https://opensource.org/licenses/MIT) licensed.
