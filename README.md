@@ -7,7 +7,9 @@ This is an exact replica of the The Next Web website putting emphasis on how it 
 
 
 
-Additional description about the project and its features.
+To cap off the HTML/CSS part of Microverse Technical Curriculum, I was given [this design](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015) of [Cindy Shin](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)'s to follow, mirroring its structure, typography and colors as I built my own conference website. I opted to build a website for the just concluded Misk Global Forum 2020 which took place between the 12th and 14th of November 2020 in Riyadh, Saudi Arabia, where I was a lucky and proud attendant. The website is built mirroring the afore-mentioned features in its exact entirety. 
+
+
 
 ## Built With
 
