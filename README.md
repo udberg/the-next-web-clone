@@ -53,8 +53,8 @@ Install and run a live server plugin on your Text editor.
 👤 Sam
 
 - GitHub: [@SamArsanios](https://github.com/SamArsanios)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- Twitter: [@SamArsanios](https://twitter.com/SamArsanios)
+- LinkedIn: [Samson](https://www.linkedin.com/in/samson-kibrom/)
 
 ## 🤝 Contributing
 
